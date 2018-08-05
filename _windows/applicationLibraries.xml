@@ -1,0 +1,31 @@
+<application>
+  <component name="libraryTable">
+    <library name="BungeeTabListPlus-2.8.0">
+      <CLASSES>
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/BungeeTabListPlus-2.8.0.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/Vault.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/worldedit-bukkit-6.1.5.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/WGRegionEvents.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/votifier-1.9.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/BossBarAPI_v2.4.1.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/craftbukkit-1.9.4-R0.1-SNAPSHOT.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/AAC.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/worldguard-6.2.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/TabAPI.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/VanishNoPacket.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/Spigot.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/ProtocolLib.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/NoCheatPlus.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/HolographicDisplays.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/Holograms-2.4.0-SNAPSHOT.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/GlowAPI_v1.4.4.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/EssentialsX-2.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/craftbukkit-1.9.4-R0.1-SNAPSHOT.jar!/" />
+        <root url="jar://F:/WorkSpace/LIBRARIES/lib/Spigot.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
